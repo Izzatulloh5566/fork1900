@@ -10,7 +10,29 @@
     margin: 0 auto;
     padding: 0 15px;
 }
+.m_box{
+    display: flex;
+    align-items: center;
+}
+.t_box{
+    flex-direction: column;
+}
+.m_title{
+    font-family: Hind Madurai;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 35.88px;
+    text-align: right;
+     
+}
+.m_text{
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: right;
 
+}
 .logo{
     display: flex;
     margin-top: 300px;
@@ -65,3 +87,4 @@ text-align: center;
     align-items: center;
 
 }
+
