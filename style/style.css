@@ -10,3 +10,31 @@
     margin: 0 auto;
     padding: 0 15px;
 }
+.logo{
+    display: flex;
+    margin-top: 300px;
+    width: 349px;
+    height: 98.27px;
+    top: 1403.59px;
+    left: 253px;
+    font-family: Arial;
+    font-size: 44.2px;
+}
+.nav_box{
+    margin-top: 300px;
+    width: 349px;
+    height: 98.27px;
+    top: 1403.59px;
+    left: 253px;
+    gap: 30px;
+    border-radius: 5px;
+}
+.title{
+    background: #D64374;
+    top: 1611.16px;
+    padding: 15px 40px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
+    font-family: Arial;
+}
