@@ -59,7 +59,7 @@ text-align: right;
     border-radius: 5px;
     text-decoration: none;
     color: #fff;
-    font-family: Arial;
+    font-family: Arial;}
 
 .abu_box{
     display: flex;
@@ -87,4 +87,3 @@ text-align: center;
     align-items: center;
 
 }
-
